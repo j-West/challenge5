@@ -8,8 +8,6 @@ function fibonacci(num1, num2) {
   }
     console.log(num2);
     return fibonacci(num2, num3);
-
 }
-
 
 fibonacci(1, 1);
